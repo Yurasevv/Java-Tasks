@@ -2,7 +2,7 @@ package task3;
 
 import java.util.ArrayList;
 
-public class SortingNumbers {
+public class OddEvenNumbers {
     public static void sortingNumbers(ArrayList<Integer> masterArray) {
         /*ArrayList<Integer> slaveArray = new ArrayList<>();
         slaveArray = masterArray;*/
